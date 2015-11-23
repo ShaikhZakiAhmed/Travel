@@ -1,0 +1,11 @@
+a: link{color:red; background-color:#B2FF99;}
+a: active{color:black; text-size:large;}
+a: visited{color:violet}
+a:hover {background-color:#FF704D;} 
+H4
+{
+color:red;
+text-align:center;
+font-family:Arial;
+}
+body{background-color:#F5F5DC}
